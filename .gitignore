@@ -12,6 +12,9 @@ gradle.properties
 \.idea/workspace\.xml
 out/
 
+# Android Studio specific
+local.properties
+
 # Eclipse-specific
 .project
 .classpath
